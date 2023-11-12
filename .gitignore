@@ -1,0 +1,33 @@
+# Archivos y directorios generados por Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+venv/
+env/
+env.bak/
+env1/
+env2/
+.env
+openai-env/
+
+# Archivos de registro y salida
+*.log
+*.pot
+*.pyc
+*.swp
+*.swo
+*.pyo
+*.bak
+*.tmp
+
+# Archivos de configuración
+*.ini
+*.cfg
+*.conf
+
+# Archivos de dependencias y entorno
+pip-log.txt
+pip-delete-this-directory.txt
+requirements.txt
