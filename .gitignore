@@ -26,6 +26,7 @@ openai-env/
 *.ini
 *.cfg
 *.conf
+config.py
 
 # Archivos de dependencias y entorno
 pip-log.txt
